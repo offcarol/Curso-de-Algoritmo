@@ -1,0 +1,16 @@
+Portugol:
+
+//identificador: tipo
+//ex: Nota1: real
+//regras: 1. Deve começar com uma letra
+//        2. Os próximos podem ser letras ou números
+//        3. Não pode utilizar nenhum símbulo, exceto _
+//        4. Não pode conter espaços em branco
+//        5. Não pode conter letras com acentos
+//        5. Não pode ser uma palavra reservada
+//Tipos primitivos
+//Inteiro: 1 3 -5 198 0 ...
+//Real: 0.5 5.0 9.8 -77.3 3.1415
+//Caractere: "Oi" "Algoritmo" "123" "Carol"
+//Logico: verdadeiro / falso
+// <- símbolo de atribuição
