@@ -1,2 +1,2 @@
-# Curso-de-Algoritmo
+# Curso-de-Algoritmos
 http://www.cursoemvideo.com
