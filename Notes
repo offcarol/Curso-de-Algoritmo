@@ -49,3 +49,15 @@ Tan             Tangente (rad)
 GraupRad        Graus para Rad
 
 Escolha só aceita inteiros, algumas linguagens também aceita caractere.
+
+Escopo é o local onde uma determinada variável irá funcionar.(Global e local)
+
+Parâmetros podem ser passado em um procedimento por valor ou por referência(var a,b).
+
+Tipos de rotinas: procedimentos e funções.
+
+Variáveis:
+
+- Simples
+- Compostas homogêneas unidimencionais: vetores 
+e matrizes
